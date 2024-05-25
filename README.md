@@ -45,7 +45,7 @@ This repository contains an in-depth exploratory data analysis (EDA) of a datase
 
 1. Clone the repository:
     ```bash
-    git clone [repository link]
+    git clone (https://github.com/Dipti-Gupta1/Movie-Revenue-and-Rating-Analysis--Python-EDA)
     ```
 2. Navigate to the project directory:
     ```bash
