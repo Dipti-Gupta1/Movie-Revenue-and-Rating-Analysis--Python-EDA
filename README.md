@@ -41,15 +41,13 @@ This repository contains an in-depth exploratory data analysis (EDA) of a datase
 - **Matplotlib & Seaborn**: For creating visualizations.
 - **Jupyter Notebook**: For interactive and iterative analysis.
 
-## Getting Started
-
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Dipti-Gupta1/Movie-Revenue-and-Rating-Analysis--Python-EDA
+    git clone https://github.com/Dipti-Gupta1/Movie-Revenue-and-Rating-Analysis--Python-EDA.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd movie-data-analysis
+    cd Movie-Revenue-and-Rating-Analysis--Python-EDA
     ```
 3. Install the required packages:
     ```bash
@@ -63,6 +61,3 @@ This repository contains an in-depth exploratory data analysis (EDA) of a datase
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
-
-
-
