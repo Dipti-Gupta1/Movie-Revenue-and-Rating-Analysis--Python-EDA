@@ -1,6 +1,8 @@
 # Movie-Revenue-and-Rating-Analysis--Python-EDA
 This project involves an in-depth analysis of a dataset containing information on 1,000 movies. The primary objective was to explore relationships between various attributes such as movie ratings, revenues, genres, and more. This repository contains all the code and visualizations produced during the analysis.
 
+![image](https://github.com/Dipti-Gupta1/Movie-Revenue-and-Rating-Analysis--Python-EDA/assets/112652526/fd4fd2c4-82dd-40d8-9640-f5614085cc43)
+
 
 
 
